@@ -6,10 +6,21 @@ This repository is a collection of resources to help me learn and use the i3 win
 
 - [i3 Reference Card](./i3-Window-Manager-Reference-Card.md) - A quick reference guide to frequently used keyboard shortcuts and commands in the i3 interface.
 
-
 ## Contributing
 
 If you have any additional resources to share, feel free to submit a pull request. Your contributions are greatly appreciated!
+
+## To-Do
+
+- [ ] i3 Configuration Guide 
+
+- [ ] Useful i3 Scripts to automate common tasks
+
+- [ ] i3 Tips and Tricks 
+
+- [ ] i3 FAQ 
+
+- [ ] i3 Customization Examples 
 
 ## Feedback
 
