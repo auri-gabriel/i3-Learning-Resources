@@ -70,6 +70,6 @@ Look at the “Resizing containers / windows” section of the user guide.
 
 Copyright © 2012, Michael Stapelberg
 All rights reserved
-Designed by Zeus Panchenko, updated by Moritz Bandemer, updated by Sander De la Marche
+Designed by Zeus Panchenko, updated by Moritz Bandemer, updated by Sander De la Marche, Modified by Auri Gabriel
 
 Permission is granted to copy, distribute and/or modify this document provided the copyright notice and this permission notice are preserved on all copies.
